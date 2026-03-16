@@ -12,7 +12,7 @@ Monitors whale transfers, SDEX trades, Soroban contract events, and meme token p
 
 `Python` · `Stellar Horizon API` · `Soroban RPC` · `Twitter API v2`
 
-→ [withercryptodev-star/stellarpulse](https://github.com/withercryptodev-star/stellarpulse)
+→ [withercryptodev-star/stellarpulse-](https://github.com/withercryptodev-star/stellarpulse-)
 
 ---
 
