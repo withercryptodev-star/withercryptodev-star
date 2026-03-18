@@ -6,7 +6,7 @@ I build automation tools, on-chain analytics, and bots for the crypto ecosystem.
 
 ## what I'm building
 
-### 🌟 StellarPulse
+### 🌟 StellarMonitor
 Real-time on-chain intelligence bot for the Stellar network.
 Monitors whale transfers, SDEX trades, Soroban contract events, and meme token pumps — posting alerts to Twitter/X automatically.
 
